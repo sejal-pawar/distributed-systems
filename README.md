@@ -1,6 +1,6 @@
 # distributed-systems
 
-Processes are simulated via Java Sockets
+Processes are simulated via Java Sockets<br>
 NOTE: PseudoServer is responsible for one-time startup of Processes
 
 | Category | Algorithms |
